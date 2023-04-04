@@ -1,17 +1,17 @@
 ## Preview
 <div align="middle">
-    <img width="auto" src="https://user-images.githubusercontent.com/91661118/154784761-d9e1a3de-3f34-47dc-afc2-0aecb6d17042.png"/>
+    <img width="auto" src="https://media.discordapp.net/attachments/509734058700308480/1092812449025097808/pn-Loading.md.png"/>
 </div>
 
 <br>
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/91661118/154891228-1fffbd8c-8b07-4175-bd25-fbfbd7e3ed38.gif)
+![ezgif com-gif-maker](https://cdn.discordapp.com/attachments/509734058700308480/1092805038524616735/image.png)
 
 <br>
 
 ## Key Features
 <div align="middle">
-    <img width="auto" src="https://user-images.githubusercontent.com/91661118/154636617-a2ad4c09-4b60-4438-832a-ed1c505b52ea.png"/>
+    <img width="auto" src="https://media.discordapp.net/attachments/509734058700308480/1092833513595732068/pn-Loading.md4.png"/>
 </div>
 
 * #### Bridge does not show while loading into server
@@ -27,7 +27,7 @@
 
 ## Change to Carousel or Video
 <div align="middle">
-    <img width="auto" src="https://user-images.githubusercontent.com/91661118/154641230-17b3da6f-e731-472c-8447-d280d2d28c82.png"/>
+    <img width="auto" src="https://media.discordapp.net/attachments/509734058700308480/1092831244129144902/pn-Loading.md1.png"/>
 </div>
 
 * #### Simply locate the HTML file found in: "html/index.html" exactly as shown underneath 
@@ -38,7 +38,7 @@
 
 ## Change Language
 <div align="middle">
-    <img width="auto" src="https://user-images.githubusercontent.com/91661118/154641827-fd6d3ced-9d9c-43fb-9b20-440d7ff562b0.png"/>
+    <img width="auto" src="https://media.discordapp.net/attachments/509734058700308480/1092831244825407619/pn-Loading.md3.png"/>
 </div>
 
 * #### Simply locate the Javascript file found in: "html/app.js" exactly as shown underneath

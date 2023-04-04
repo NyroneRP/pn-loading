@@ -60,6 +60,28 @@ load.mount('#loading-main')
 var audio = document.getElementById("audio");
 audio.volume = 0.05;
 
+$(document).ready(function () {
+    var audioFiles = [
+        '/assets/audio/ambientgold.mp3',
+        '/assets/audio/chimes.mp3',
+        '/assets/audio/daze.mp3',
+        '/assets/audio/galaxy.mp3',
+        '/assets/audio/highwaynights.mp3',
+        '/assets/audio/meteorbinge.mp3'
+    ];
+
+    var randomSong = audioFiles[Math.floor(Math.random() * audioFiles.length)];
+
+    $('#audio').attr('src', randomSong);
+
+    $('#audio')[0].autoplay = true;
+
+    $('#audio')[0].play();
+});
+
+var audio = document.getElementById("audio");
+audio.volume = 0.05;
+
 function audiotoggle() {
     var audio = document.getElementById("audio");
     if (audio.paused) {
