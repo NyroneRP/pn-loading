@@ -11,8 +11,9 @@
 .q-mb-md-d { padding-top: 0px!important; padding-left: 0.3vw!important; }
 .q-toggle { margin-left: -0.5vw!important; }
 .q-toggle__label { font-size: 15px!important; font-weight: 500!important; }
-.q-card { z-index: 9999!important; }
+.q-card { color: #141415; z-index: 9999!important; }
 .q-btn { z-index: 9999!important; }
+.q-icon { color: #0fa688; }
 
 html, body { background: transparent!important; max-width: 100%!important; overflow-x: hidden!important; }
 body { -webkit-user-select: none!important; -moz-user-select: none!important; -ms-user-select: none!important;  -o-user-select: none!important; user-select: none!important; }

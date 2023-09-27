@@ -14,13 +14,14 @@ const load = Vue.createApp({
       CarouselText4: 'For additional support please join our community at discord.gg/qbcore',
       CarouselSubText4: 'Photo captured by: Robinerino#1312',
 
-      DownloadTitle: 'Downloading QBCore Server',
-      DownloadDesc: "Hold tight while we begin downloading all the resources/assets required to play on QBCore Server. \n\nAfter download has been finished successfully, you'll be placed into the server and this screen will disappear. Please don't leave or turn off your PC. ",
+      DownloadTitle: 'Warming Up Server Assets',
+    //   DownloadDesc: "Hold tight while we begin downloading all the resources/assets required to play on QBCore Server. \n\nAfter download has been finished successfully, you'll be placed into the server and this screen will disappear. Please don't leave or turn off your PC. ",
+      DownloadDesc: "Prepare for an immersive experience! \n\While the server warms up its assets, \n\get ready to embark on a thrilling journey",
 
       SettingsTitle: 'Settings',
-      AudioTrackDesc1: 'When disabled the current audio-track playing will be stopped.',
-      AutoPlayDesc2: 'When disabled carousel images will stop cycling and remain on the last shown.',
-      PlayVideoDesc3: 'When disabled video will stop playing and remain paused.',
+      AudioTrackDesc1: 'Disabling stops the current audio track.',
+      AutoPlayDesc2: 'Disabling stops image cycling.',
+      PlayVideoDesc3: 'Disabling pauses video playback.',
 
       KeybindTitle: 'Default Keybinds',
       Keybind1: 'Open Inventory',
